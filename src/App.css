@@ -1,0 +1,37 @@
+* {
+  text-align: center;
+}
+
+.App{
+  padding: 30px;
+  display: flex;
+  gap: 40px;
+}
+
+form {
+  margin: 0 auto;
+  width: fit-content;
+  height: fit-content;
+  background-color: white;
+  padding: 10px;
+  color: #999;
+  border-radius: 3px;
+}
+
+.name{
+  display: flex;
+  margin: 10px;
+}
+.date {
+  display: flex;
+}
+
+.input-container{
+  margin: 10px;
+}
+
+input text {
+  outline: none;
+  border: 0;
+  border: solid 1px #999;
+}
